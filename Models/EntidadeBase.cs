@@ -1,0 +1,7 @@
+namespace CadastroSeries.Models
+{
+    public class EntidadeBase
+    {
+        public int Id { get; set; }
+    }
+}
